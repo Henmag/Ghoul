@@ -1,0 +1,452 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+.labels{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.label1{
+    font-size: 720%;
+}
+.label2{
+    font-size: 715%;
+}
+.label3{
+    font-size: 710%;
+}
+.label4{
+    font-size: 705%;
+}
+.label5{
+    font-size: 700%;
+}
+.label6{
+    font-size: 695%;
+}
+.label7{
+    font-size: 690%;
+}
+.label8{
+    font-size: 685%;
+}
+.label9{
+    font-size: 680%;
+}
+.label10{
+    font-size: 675%;
+}
+
+.label11{
+    font-size: 670%;
+}
+.label12{
+    font-size: 665%;
+}
+.label13{
+    font-size: 660%;
+}
+.label14{
+    font-size: 655%;
+}
+.label15{
+    font-size: 650%;
+}
+.label16{
+    font-size: 645%;
+}
+.label17{
+    font-size: 640%;
+}
+.label18{
+    font-size: 635%;
+}
+.label19{
+    font-size: 630%;
+}
+.label20{
+    font-size: 625%;
+}
+
+.label21{
+    font-size: 620%;
+}
+.label22{
+    font-size: 615%;
+}
+.label23{
+    font-size: 610%;
+}
+.label24{
+    font-size: 605%;
+}
+.label25{
+    font-size: 600%;
+}
+.label26{
+    font-size: 595%;
+}
+.label27{
+    font-size: 590%;
+}
+.label28{
+    font-size: 585%;
+}
+.label29{
+    font-size: 580%;
+}
+.label30{
+    font-size: 575%;
+}
+
+.label31{
+    font-size: 570%;
+}
+.label32{
+    font-size: 565%;
+}
+.label33{
+    font-size: 560%;
+}
+.label34{
+    font-size: 555%;
+}
+.label35{
+    font-size: 550%;
+}
+.label36{
+    font-size: 545%;
+}
+.label37{
+    font-size: 540%;
+}
+.label38{
+    font-size: 535%;
+}
+.label39{
+    font-size: 530%;
+}
+.label40{
+    font-size: 525%;
+}
+
+.label41{
+    font-size: 520%;
+}
+.label42{
+    font-size: 515%;
+}
+.label43{
+    font-size: 510%;
+}
+.label44{
+    font-size: 505%;
+}
+.label45{
+    font-size: 500%;
+}
+.label46{
+    font-size: 495%;
+}
+.label47{
+    font-size: 490%;
+}
+.label48{
+    font-size: 485%;
+}
+.label49{
+    font-size: 480%;
+}
+.label50{
+    font-size: 475%;
+}
+
+.label51{
+    font-size: 470%;
+}
+.label52{
+    font-size: 465%;
+}
+.label53{
+    font-size: 460%;
+}
+.label54{
+    font-size: 455%;
+}
+.label55{
+    font-size: 450%;
+}
+.label56{
+    font-size: 445%;
+}
+.label57{
+    font-size: 440%;
+}
+.label58{
+    font-size: 435%;
+}
+.label59{
+    font-size: 430%;
+}
+.label60{
+    font-size: 425%;
+}
+
+.label61{
+    font-size: 420%;
+}
+.label62{
+    font-size: 415%;
+}
+.label63{
+    font-size: 410%;
+}
+.label64{
+    font-size: 405%;
+}
+.label65{
+    font-size: 400%;
+}
+.label66{
+    font-size: 395%;
+}
+.label67{
+    font-size: 390%;
+}
+.label68{
+    font-size: 385%;
+}
+.label69{
+    font-size: 380%;
+}
+.label70{
+    font-size: 375%;
+}
+
+.label71{
+    font-size: 370%;
+}
+.label72{
+    font-size: 365%;
+}
+.label73{
+    font-size: 360%;
+}
+.label74{
+    font-size: 355%;
+}
+.label75{
+    font-size: 350%;
+}
+.label76{
+    font-size: 345%;
+}
+.label77{
+    font-size: 340%;
+}
+.label78{
+    font-size: 335%;
+}
+.label79{
+    font-size: 330%;
+}
+.label80{
+    font-size: 325%;
+}
+
+.label81{
+    font-size: 320%;
+}
+.label82{
+    font-size: 315%;
+}
+.label83{
+    font-size: 310%;
+}
+.label84{
+    font-size: 305%;
+}
+.label85{
+    font-size: 300%;
+}
+.label86{
+    font-size: 295%;
+}
+.label87{
+    font-size: 290%;
+}
+.label88{
+    font-size: 285%;
+}
+.label89{
+    font-size: 280%;
+}
+.label90{
+    font-size: 275%;
+}
+
+.label91{
+    font-size: 270%;
+}
+.label92{
+    font-size: 265%;
+}
+.label93{
+    font-size: 260%;
+}
+.label94{
+    font-size: 255%;
+}
+.label95{
+    font-size: 250%;
+}
+.label96{
+    font-size: 245%;
+}
+.label97{
+    font-size: 240%;
+}
+.label98{
+    font-size: 235%;
+}
+.label99{
+    font-size: 230%;
+}
+.label100{
+    font-size: 225%;
+}
+
+.label101{
+    font-size: 220%;
+}
+.label102{
+    font-size: 215%;
+}
+.label103{
+    font-size: 210%;
+}
+.label104{
+    font-size: 205%;
+}
+.label105{
+    font-size: 200%;
+}
+.label106{
+    font-size: 195%;
+}
+.label107{
+    font-size: 190%;
+}
+.label108{
+    font-size: 185%;
+}
+.label109{
+    font-size: 180%;
+}
+.label110{
+    font-size: 175%;
+}
+
+.label111{
+    font-size: 170%;
+}
+.label112{
+    font-size: 165%;
+}
+.label113{
+    font-size: 160%;
+}
+.label114{
+    font-size: 155%;
+}
+.label115{
+    font-size: 150%;
+}
+.label116{
+    font-size: 145%;
+}
+.label117{
+    font-size: 140%;
+}
+.label118{
+    font-size: 135%;
+}
+.label119{
+    font-size: 130%;
+}
+.label120{
+    font-size: 125%;
+}
+
+.label121{
+    font-size: 120%;
+}
+.label122{
+    font-size: 115%;
+}
+.label123{
+    font-size: 110%;
+}
+.label124{
+    font-size: 105%;
+}
+.label125{
+    font-size: 100%;
+}
+.label126{
+    font-size: 95%;
+}
+.label127{
+    font-size: 90%;
+}
+.label128{
+    font-size: 85%;
+}
+.label129{
+    font-size: 80%;
+}
+.label130{
+    font-size: 75%;
+}
+
+.label131{
+    font-size: 70%;
+}
+.label132{
+    font-size: 65%;
+}
+.label133{
+    font-size: 60%;
+}
+.label134{
+    font-size: 55%;
+}
+.label135{
+    font-size: 50%;
+}
+.label136{
+    font-size: 45%;
+}
+.label137{
+    font-size: 40%;
+}
+.label138{
+    font-size: 35%;
+}
+.label139{
+    font-size: 30%;
+}
+.label140{
+    font-size: 25%;
+}
+
+.label141{
+    font-size: 20%;
+}
+.label142{
+    font-size: 15%;
+}
+.label143{
+    font-size: 10%;
+}
